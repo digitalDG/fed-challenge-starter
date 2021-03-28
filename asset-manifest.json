@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/fed-challenge-starter/static/css/main.ff411040.chunk.css",
+    "main.js": "/fed-challenge-starter/static/js/main.b761558e.chunk.js",
+    "main.js.map": "/fed-challenge-starter/static/js/main.b761558e.chunk.js.map",
+    "runtime-main.js": "/fed-challenge-starter/static/js/runtime-main.3972a04a.js",
+    "runtime-main.js.map": "/fed-challenge-starter/static/js/runtime-main.3972a04a.js.map",
+    "static/js/2.a3412156.chunk.js": "/fed-challenge-starter/static/js/2.a3412156.chunk.js",
+    "static/js/2.a3412156.chunk.js.map": "/fed-challenge-starter/static/js/2.a3412156.chunk.js.map",
+    "index.html": "/fed-challenge-starter/index.html",
+    "precache-manifest.85a5504528d85fbdd5b21234d1429577.js": "/fed-challenge-starter/precache-manifest.85a5504528d85fbdd5b21234d1429577.js",
+    "service-worker.js": "/fed-challenge-starter/service-worker.js",
+    "static/css/main.ff411040.chunk.css.map": "/fed-challenge-starter/static/css/main.ff411040.chunk.css.map",
+    "static/js/2.a3412156.chunk.js.LICENSE.txt": "/fed-challenge-starter/static/js/2.a3412156.chunk.js.LICENSE.txt",
+    "static/media/20-minutes-to-toned-thumb.jpg": "/fed-challenge-starter/static/media/20-minutes-to-toned-thumb.1542c118.jpg",
+    "static/media/charles-race-thumb.jpg": "/fed-challenge-starter/static/media/charles-race-thumb.00390176.jpg",
+    "static/media/full-body-hiit-thumb.jpg": "/fed-challenge-starter/static/media/full-body-hiit-thumb.578dacbc.jpg",
+    "static/media/kafue-river-thumb.jpg": "/fed-challenge-starter/static/media/kafue-river-thumb.a55f946a.jpg",
+    "static/media/lake-inniscarra-thumb.jpg": "/fed-challenge-starter/static/media/lake-inniscarra-thumb.e0a7c906.jpg",
+    "static/media/performance-series-thumb.jpg": "/fed-challenge-starter/static/media/performance-series-thumb.3e82c423.jpg",
+    "static/media/shred-and-burn-thumb.jpg": "/fed-challenge-starter/static/media/shred-and-burn-thumb.04edd542.jpg",
+    "static/media/slow-pulls-thumb.jpg": "/fed-challenge-starter/static/media/slow-pulls-thumb.7cae9ed1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3972a04a.js",
+    "static/js/2.a3412156.chunk.js",
+    "static/css/main.ff411040.chunk.css",
+    "static/js/main.b761558e.chunk.js"
+  ]
+}

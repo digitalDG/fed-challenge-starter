@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "workoutTitle" : "Lake Inniscarra, Ireland-Pyramid",
+        "baseImageName": "lake-inniscarra",
+        "isSeries": false,
+        "numWorkouts": 0,
+        "time": "30:53",
+        "distance": "6,248 M"
+    },
+    {
+        "id": 2,
+        "workoutTitle" : "Performance Series",
+        "baseImageName": "performance-series",
+        "isSeries": true,
+        "numWorkouts": 9,
+        "time": "",
+        "distance": ""
+    },
+    {
+        "id": 3,
+        "workoutTitle" : "Slow Pulls and Fast Intervals",
+        "baseImageName": "slow-pulls",
+        "isSeries": false,
+        "numWorkouts": 0,
+        "time": "44:13",
+        "distance": "9,948 M"
+    },
+    {
+        "id": 4,
+        "workoutTitle" : "20 Minutes to Toned",
+        "baseImageName": "20-minutes-to-toned",
+        "isSeries": true,
+        "numWorkouts": 12,
+        "time": "",
+        "distance": ""
+    },
+    {
+        "id": 5,
+        "workoutTitle" : "Charles Race, Boston, Massachusetts",
+        "baseImageName": "charles-race",
+        "isSeries": false,
+        "numWorkouts": 0,
+        "time": "36:22",
+        "distance": "8648 M"
+    },
+    {
+        "id": 6,
+        "workoutTitle" : "Full-Body HIIT Series",
+        "baseImageName": "full-body-hiit",
+        "isSeries": true,
+        "numWorkouts": 12,
+        "time": "",
+        "distance": ""
+    },
+    {
+        "id": 7,
+        "workoutTitle" : "Kafue River, Zambia-Power Stroke Pyramid",
+        "baseImageName": "kafue-river",
+        "isSeries": false,
+        "numWorkouts": 0,
+        "time": "22:22",
+        "distance": "4660 M"
+    },
+    {
+        "id": 8,
+        "workoutTitle" : "Shred & Burn Series",
+        "baseImageName": "shred-and-burn",
+        "isSeries": true,
+        "numWorkouts": 16,
+        "time": "",
+        "distance": ""
+    }
+]
